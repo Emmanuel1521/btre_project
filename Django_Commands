@@ -1,8 +1,0 @@
-django-admin help 
-django-admin startproject btre . - to start a project in the present directory 
-python manage.py runserver - to run a server 
-python manage.py startapp appname - to create an app
-    Everytime you create an app, go to main setting of the project fileand add app config - 'appname.apps.classname'
-For every app add urls.py to add the urls path
-    Import path library and views
-When you create templates folder add it in setting dir
